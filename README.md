@@ -1,0 +1,1 @@
+### Run the MCP development server with: `uv run mcp dev server.py`
